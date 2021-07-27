@@ -34,8 +34,9 @@
 
 #### Backend
 
-- Express
+- Express.js
 - Node.js
+- MondoDB
 - Mongoose
 
 #### Frontend
